@@ -16,7 +16,7 @@ python hscan.py
 usage: HScan.py [options]
 
 * A plugins weB vulnerability Scanner. *
-Author : bey0nd [at] (http://www.itwzw.cn)
+Author : bey0nd [at] (https://www.beysec.com)
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -36,7 +36,7 @@ python hscan.py -u 172.16.32.97
 | |  | | ____) || (__| (_| || | | |
 |_|  |_||_____/  \___|\__,_||_| |_|
                                 plugins weB vulnerability Scanner
-                          bey0nd [at] (http://www.itwzw.cn)
+                          bey0nd [at] (https://www.beysec.com)
 
 [-] 11:39:05 [INFO] check target [172.16.32.97] with plugins [redis-remote]
 [-] 11:39:05 [INFO] check target [172.16.32.97] with plugins [redis-unauth]
