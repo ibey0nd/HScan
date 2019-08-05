@@ -11,7 +11,7 @@ python hscan.py
 | |  | | ____) || (__| (_| || | | |
 |_|  |_||_____/  \___|\__,_||_| |_|
                                 plugins weB vulnerability Scanner
-                          bey0nd [at] (http://www.itwzw.cn)
+                          bey0nd [at] (https://www.beysec.com)
 
 usage: HScan.py [options]
 
